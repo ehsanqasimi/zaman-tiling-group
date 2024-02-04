@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/zaman-tiling-group/static/css/main.00e93f2d.css",
+    "main.js": "/zaman-tiling-group/static/js/main.3b74fcf5.js",
+    "static/media/3.jpg": "/zaman-tiling-group/static/media/3.41d330098ffe4439a87b.jpg",
+    "static/media/2.jpg": "/zaman-tiling-group/static/media/2.ce96b67780575792469d.jpg",
+    "static/media/bathroom.jpg": "/zaman-tiling-group/static/media/bathroom.c3b575595fdc3ef925fe.jpg",
+    "static/media/1.jpg": "/zaman-tiling-group/static/media/1.801b907413d0d1819206.jpg",
+    "static/media/logo.PNG": "/zaman-tiling-group/static/media/logo.1a143effb00807ddc7af.PNG",
+    "index.html": "/zaman-tiling-group/index.html",
+    "main.00e93f2d.css.map": "/zaman-tiling-group/static/css/main.00e93f2d.css.map",
+    "main.3b74fcf5.js.map": "/zaman-tiling-group/static/js/main.3b74fcf5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.00e93f2d.css",
+    "static/js/main.3b74fcf5.js"
+  ]
+}
